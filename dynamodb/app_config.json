@@ -1,0 +1,18 @@
+{
+ "application_id": "1db38593-e6d5-4657-8e09-dc71b8df3d58",
+ "SendEmailQueueName": "ugh-pca_Send_Email",
+ "BucketPrefix": "data",
+ "TranscriptionsFilename": "transcriptions.json",
+ "PresentationTemplateFilename": "presentationtemplate.pptx",
+ "CreatePresentationQueueName": "ugh-pca_Create_Presentation",
+ "application_name": "unicorn-gym-hackathon-presentation-creator-app",
+ "TemplatesPrefix": "|BucketPrefix/templates",
+ "ProcessVideoQueueName": "PCAStack-VideoProcessingInputQueueBA10A8B9-pwFC4bsu7w4K",
+ "application_code": "uga_pca",
+ "SlideTransitionsFilename": "slidetransitions.json",
+ "SlideTranscriptionsFilename": "slidetranscriptions.json",
+ "SlidesPrefix": "|JobPrefix/slides",
+ "BucketName": "unicorn-gym-hackathon-presentation-creator-app",
+ "SendEmailSourceName": "aws-strategic-ugh-pca@amazon.com",
+ "JobPrefix": "|BucketPrefix/users/|user_email_id/|job_id"
+}

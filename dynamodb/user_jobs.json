@@ -1,0 +1,18 @@
+{
+ "user_email_id": "pasamoha@amazon.com",
+ "job_id": "baf497bb-c902-42a1-ba06-fcad41e264e",
+ "last_updated": "2022-04-13 23:34:18.400859",
+ "overwrite_notes": false,
+ "update_counter": 239,
+ "VideoFilename": "data/users/pasamoha@amazon.com/baf497bb-c902-42a1-ba06-fcad41e264e/my-presentation.mp4",
+ "BucketName": "unicorn-gym-hackathon-presentation-creator-app",
+ "PresentationFileName": "data/users/pasamoha@amazon.com/baf497bb-c902-42a1-ba06-fcad41e264e/my-presentation.pptx",
+ "job_artifacts": {
+  "PresentationTemplateFilename": "data/templates/presentationtemplate.pptx",
+  "SlideTranscriptionsFilename": "data/users/pasamoha@amazon.com/baf497bb-c902-42a1-ba06-fcad41e264e/slidetranscriptions.json",
+  "TranscriptionsFilename": "data/users/pasamoha@amazon.com/baf497bb-c902-42a1-ba06-fcad41e264e/transcriptions.json",
+  "SlidesPrefix": "data/users/pasamoha@amazon.com/baf497bb-c902-42a1-ba06-fcad41e264e/slides",
+  "SlideTransitionsFilename": "data/users/pasamoha@amazon.com/baf497bb-c902-42a1-ba06-fcad41e264e/slidetransitions.json"
+ },
+ "job_status": "Completed: Creating Presentation"
+}
